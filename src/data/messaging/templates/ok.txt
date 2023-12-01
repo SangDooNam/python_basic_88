@@ -1,0 +1,7 @@
+Hello {from},
+
+Your message to "{to}" with the title "{title}" has been sent successfully.
+
+Thank you for using our messaging system,
+
+The organization

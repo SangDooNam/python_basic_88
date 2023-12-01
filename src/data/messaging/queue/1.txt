@@ -1,0 +1,4 @@
+from: Peter
+to: Mary
+title: Request for meeting
+body: Hi,\nI've been working on the proposal over the past few days and there are a couple of topics I would like to discuss.\nWould you have time over the next week to have a short meeting?\nThank you!

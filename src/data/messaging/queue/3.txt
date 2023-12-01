@@ -1,0 +1,4 @@
+from: Emily
+to: Mary
+title: Minutes
+body: Hi Mary,\nPlease, find attached the minutes of our last meeting.

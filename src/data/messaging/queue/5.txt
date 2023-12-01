@@ -1,0 +1,4 @@
+from: Mary
+to: Joe
+title: Consumables
+body: Hi Joe,\nI think we should stock up on consumables, the prices are rising and we can't risk it.\nThank you!
