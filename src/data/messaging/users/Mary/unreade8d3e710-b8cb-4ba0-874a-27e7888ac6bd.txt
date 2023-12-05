@@ -1,1 +1,0 @@
-{"from": " Emily\n", "to": " Mary\n", "title": " Minutes\n", "body": " Hi Mary,\\nPlease, find attached the minutes of our last meeting.\n"}
