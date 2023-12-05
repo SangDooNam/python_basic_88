@@ -1,0 +1,1 @@
+{"from": " Mary\n", "to": " Joe\n", "title": " Consumables\n", "body": " Hi Joe,\\nI think we should stock up on consumables, the prices are rising and we can't risk it.\\nThank you!\n"}

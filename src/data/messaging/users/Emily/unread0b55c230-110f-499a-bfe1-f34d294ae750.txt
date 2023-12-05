@@ -1,6 +1,6 @@
-Hello {sender},
+Hello Emily,
 
-We regret to inform you that your message to "{to}" with the title "{title}" could not be sent.
+We regret to inform you that your message to "Peter" with the title "Review" could not be sent.
 
 We will keep trying and inform you as soon as the message has been delivered.
 

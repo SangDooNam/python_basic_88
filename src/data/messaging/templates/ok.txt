@@ -1,4 +1,4 @@
-Hello {from},
+Hello {sender},
 
 Your message to "{to}" with the title "{title}" has been sent successfully.
 

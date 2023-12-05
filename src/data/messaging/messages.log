@@ -1,0 +1,5 @@
+Message 1.txt processed with status False.
+Message 2.txt processed with status False.
+Message 3.txt processed with status True.
+Message 4.txt processed with status True.
+Message 5.txt processed with status True.
