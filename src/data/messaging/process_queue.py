@@ -101,11 +101,11 @@ def move_to_sent(message):
 
 def process_queue():
     """Take the messages in the queue and send them."""
-    send_message("1.txt")
-    send_message("2.txt")
-    send_message("3.txt")
-    send_message("4.txt")
-    send_message("5.txt")
+    lst = os.listdir(QUEUE_ROOT)
+    for i in lst:
+        if i.endswith('.txt'):
+            send_message(i)
+    
 
 
 def notification(status, message):
